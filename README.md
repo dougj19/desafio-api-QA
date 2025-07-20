@@ -1,4 +1,4 @@
-# 📊 Desafio de Automação de Testes - API Serverest
+# 📊 Desafio de Automação de Testes - API
 
 Este repositório contém a automação de testes da API [Serverest.dev](https://serverest.dev), como parte de um desafio técnico de QA.
 
