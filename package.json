@@ -1,0 +1,15 @@
+{
+  "name": "desafio-api-qa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Douglas Jose dos Santos",
+  "license": "ISC",
+  "description": "Teste de API",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
